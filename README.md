@@ -1,24 +1,63 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Memory Game
+
+¡Bienvenido a Memory Game! Este es un juego de memoria construido con Next.js y React. El objetivo del juego es encontrar todos los pares de cartas en el menor tiempo posible.
+
+## Índice
+
+- [Características](#características)
+- [Tecnologías Utilizadas](#tecnologías-utilizadas)
+- [Instalación](#instalación)
+- [Uso](#uso)
+- [Contribución](#contribución)
+- [Licencia](#licencia)
+
+## Características
+
+- Juego de memoria clásico con cartas.
+- Registra el puntaje del jugador.
+- Posibilidad de agregar el nombre del jugador.
+- Control de errores y coincidencias.
+
+## Tecnologías Utilizadas
+
+- [Next.js](https://nextjs.org/)
+- [React](https://reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Jest](https://jestjs.io/) para pruebas
+
+## Instalación
+
+Para instalar y ejecutar el proyecto localmente, sigue estos pasos:
+
+1. Clona el repositorio:
+
+   ```bash
+   git clone https://github.com/tu-usuario/nombre-del-repo.git
+   cd nombre-del-repo
+
 
 ## Getting Started
 
 First, run the development server:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+npm install
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+```bash
+npm run dev
+```
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Abre tu navegador y ve a [http://localhost:3000](http://localhost:3000)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Uso
+
+- Cuando abras el juego, ingresa tu nombre para comenzar.
+- Haz clic en las cartas para voltear y encontrar los pares.
+- El juego mostrará tu puntaje y errores.
+
+
 
 ## Learn More
 
