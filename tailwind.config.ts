@@ -8,12 +8,18 @@ const config: Config = {
   ],
   theme: {
     extend: {
-      colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+      fontFamily: {
+        bebas: ["Bebas Neue", "sans-serif"],
+      },
+      transform: {
+        'rotate-y-180': 'rotateY(180deg)',
+      },
+      perspective: {
+        '1000': '1000px',
       },
     },
   },
   plugins: [],
 };
+
 export default config;
