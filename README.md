@@ -10,6 +10,7 @@
 - [Uso](#uso)
 - [Licencia](#licencia)
 - [Despliegue en Vercel](#despliegue-en-vercel)
+- [Test](#test)
 
 ## Características
 
@@ -74,7 +75,16 @@ Este proyecto ha sido desplegado en [Vercel](https://vercel.com/) por las siguie
 
 Para ver la aplicación en acción, visita [mi sitio desplegado en Vercel](https://memory-one-coral.vercel.app/).
 
+## Test
 
+Este proyecto incluye un conjunto de pruebas automatizadas para garantizar que las funcionalidades clave funcionen correctamente. Para ejecutar los tests, es necesario modificar el archivo **`tsconfig.json`** para asegurarse de que las rutas y configuraciones se adapten a las pruebas. En ese archivo modificar "jsx": "preserve" por "jsx": "react-jsx". Luego ejuecuta los test.
+
+
+- Ejecutar test:
+
+```bash
+npm test
+```
 
 ## Learn More
 
