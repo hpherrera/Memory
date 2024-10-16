@@ -8,7 +8,6 @@
 - [Tecnologías Utilizadas](#tecnologías-utilizadas)
 - [Instalación](#instalación)
 - [Uso](#uso)
-- [Contribución](#contribución)
 - [Licencia](#licencia)
 
 ## Características
@@ -37,14 +36,13 @@ Para instalar y ejecutar el proyecto localmente, sigue estos pasos:
    cd nombre-del-repo
 
 
-## Getting Started
-
-First, run the development server:
+- Instala las dependencias:
 
 ```bash
 npm install
 ```
 
+- Ejecuta el servidor de desarrollo
 ```bash
 npm run dev
 ```
