@@ -9,6 +9,7 @@
 - [Instalación](#instalación)
 - [Uso](#uso)
 - [Licencia](#licencia)
+- [Despliegue en Vercel](#despliegue-en-vercel)
 
 ## Características
 
@@ -55,20 +56,6 @@ Abre tu navegador y ve a [http://localhost:3000](http://localhost:3000)
 - Haz clic en las cartas para voltear y encontrar los pares.
 - El juego mostrará tu puntaje y errores.
 
-
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy en Vercel
-
-
 ## Despliegue en Vercel
 
 Este proyecto ha sido desplegado en [Vercel](https://vercel.com/) por las siguientes razones:
@@ -87,6 +74,16 @@ Este proyecto ha sido desplegado en [Vercel](https://vercel.com/) por las siguie
 
 Para ver la aplicación en acción, visita [mi sitio desplegado en Vercel](https://memory-one-coral.vercel.app/).
 
+
+
+## Learn More
+
+To learn more about Next.js, take a look at the following resources:
+
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
