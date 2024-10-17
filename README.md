@@ -8,7 +8,6 @@
 - [Tecnologías Utilizadas](#tecnologías-utilizadas)
 - [Instalación](#instalación)
 - [Uso](#uso)
-- [Licencia](#licencia)
 - [Despliegue en Vercel](#despliegue-en-vercel)
 - [Test](#test)
 
